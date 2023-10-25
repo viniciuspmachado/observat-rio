@@ -1,0 +1,24 @@
+@import "variables";
+
+@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap-icons/font/bootstrap-icons.scss";
+@import "./layout/sidebar";
+@import "./layout/container";
+@import "./layout/lpinsects.ttf";
+@import "/src/assets/scss/files/default.css";
+@import "/src/assets/scss/files/colors.css";
+@import "/src/assets/scss/files/btn.css";
+@import "/src/assets/scss/files/fluxo.css";
+@import "/src/assets/scss/files/bootstrap.css";
+
+@font-face {
+    font-family: rawline;
+    src: url(./rawline-400.ttf);
+  }
+
+  @font-face {
+    font-family: gidole;
+    src: url(./Gidole-Regular.ttf);
+  }
+  
+  
